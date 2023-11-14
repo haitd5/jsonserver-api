@@ -1,0 +1,82 @@
+{
+    "department": [
+        {
+            "name": "Toan - Tin",
+            "id": "1"
+        },
+        {
+            "name": "Ngu Van",
+            "id": "2"
+        },
+        {
+            "name": "Hoa Hoc",
+            "id": "3"
+        },
+        {
+            "name": "The duc",
+            "id": "4"
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Darla Rowe",
+            "avatar": "https://res.cloudinary.com/deiyf3lf7/image/upload/v1699961479/op5vbnyfcktw6cbooj3b.jpg",
+            "dob": "2005-05-25T15:00:00.000Z",
+            "gender": "female",
+            "email": "Catherine.Parisian15@gmail.com",
+            "department": {
+                "name": "Toan - Tin",
+                "id": "1"
+            },
+            "id": "1"
+        },
+        {
+            "name": "Maia Strickland",
+            "avatar": "https://img.meta.com.vn/Data/image/2022/01/13/anh-dep-thien-nhien-6.jpg",
+            "dob": "1971-01-31T15:00:00.000Z",
+            "gender": "Male",
+            "email": "tizalolefu@mailinator.com",
+            "department": {
+                "name": "Toan - Tin",
+                "id": "1"
+            },
+            "id": "5"
+        },
+        {
+            "name": "Lionel Barnett",
+            "avatar": "https://vcdn1-vnexpress.vnecdn.net/2019/07/30/anh-thien-nhien-dep-thang-7-1564483719.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Nl3znv-VRtPyhJYhLwwRfA",
+            "dob": "2020-04-22T15:00:00.000Z",
+            "gender": "Female",
+            "email": "dicelopoce@mailinator.com",
+            "department": {
+                "name": "Ngu Van",
+                "id": "2"
+            },
+            "id": "9"
+        },
+        {
+            "name": "India Morrow",
+            "avatar": "https://noithatbinhminh.com.vn/wp-content/uploads/2022/08/anh-dep-15.jpg",
+            "dob": "2022-05-20T15:00:00.000Z",
+            "gender": "Female",
+            "email": "cima@mailinator.com",
+            "department": {
+                "name": "Ngu Van",
+                "id": "2"
+            },
+            "id": "11"
+        },
+        {
+            "name": "Yvonne Carpenter",
+            "avatar": "https://noithatbinhminh.com.vn/wp-content/uploads/2022/08/anh-dep-15.jpg",
+            "dob": "1970-01-07T15:00:00.000Z",
+            "gender": "Female",
+            "email": "kibogyta@mailinator.com",
+            "department": {
+                "name": "Ngu Van",
+                "id": "2"
+            },
+            "id": "12"
+        }
+    ]
+}
