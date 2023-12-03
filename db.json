@@ -79,115 +79,442 @@
             "id": "12"
         }
     ],
-    "users": [
+    "oilProducts": [
         {
-            "id": 1,
-            "name": "Tommy"
+            "img": "https://skzic.com.vn/vnt_upload/product/07_2020/thumbs/600_Dau_nhot_xe_o_to_SK_ZIC_TOP_0W40.png",
+            "title": "SK ZIC TOP 0W40",
+            "fullName": "DẦU NHỚT PAO CAO CẤP SK ZIC TOP 0W40",
+            "capacity": 1,
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "shop": "Oil house",
+            "description": "Dầu nhớt SK ZIC Racing là dầu động cơ tổng hợp 100% gốc PAO (Nhóm IV) và naphthalene được kiềm hóa (Nhóm V) được thiết kế cho động cơ xe đua hiệu suất cao. Dầu nhớt SK ZIC Racing bảo vệ hoàn hảo động cơ của bạn trong các điều kiện lái xe khắc nghiệt và đòi hỏi yêu cầu cao trong các chặng đua xe thể thao. SK ZIC Racing cung cấp hiệu suất và bảo vệ động cơ 100% cho cả các ứng dụng đua xe và lái xe hàng ngày.",
+            "id": 1
         },
         {
-            "id": 2,
-            "name": "Jennie"
+            "img": "https://skzic.com.vn/vnt_upload/product/07_2020/thumbs/600_Dau_nhot_xe_o_to_SK_ZIC_X7_F7_10W40.png",
+            "title": "SK ZIC X7 10W40",
+            "fullName": "DẦU NHỚT XE Ô TÔ SK ZIC X7 10W40",
+            "capacity": 3,
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "shop": "Oil house",
+            "description": "Dầu nhớt xe ô tô máy xăng SK ZIC X7 10W40 là dầu nhớt động cơ tổng hợp chất lượng cao, bảo vệ động cơ vượt trội với công nghệ VHVI. SK ZIC X7 10W40 kéo dài tuổi thọ của động cơ nhờ sức mạnh bảo vệ chống mài mòn và tẩy sạch cặn bẩn, chất thải, giúp động cơ đạt hiệu suất cao trong cả điều kiện nhiệt độ cao và thấp. ",
+            "id": 2
         },
         {
-            "id": 3,
-            "name": "Harry"
+            "img": "https://skzic.com.vn/vnt_upload/product/07_2020/thumbs/600_Dau_nhot_xe_o_to_SK_ZIC_X5_15W40.png",
+            "title": "SK ZIC X5 15W40",
+            "fullName": "DẦU NHỚT XE Ô TÔ SK ZIC X5 15W40",
+            "capacity": 4,
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "shop": "Oil house",
+            "description": "Dầu nhớt xe ô tô máy xăng SK ZIC X5 15W40 là dầu nhớt tổng hợp có được sản xuất với công nghệ VHVI cung cấp hiệu quả vượt trội cho động cơ hơn so với nhớt được tinh chế từ dầu gốc khoáng. SK ZIC X5 15W40 được thiết kế để bảo vệ động cơ khỏi sự ăn mòn làm kéo dài tuổi thọ động cơ với khả năng kiểm soát chất thải và cặn hoàn hảo.",
+            "id": 3
         },
         {
-            "id": 4,
-            "name": "Beck"
+            "img": "https://skzic.com.vn/vnt_upload/product/07_2020/thumbs/600_Dau_nhot_xe_o_to_SK_ZIC_X3_15W40_1.png",
+            "title": "SK ZIC X3 15W40",
+            "fullName": "DẦU NHỚT XE Ô TÔ SK ZIC X3 15W40",
+            "capacity": 4,
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "shop": "Oil house",
+            "description": "Dầu nhớt xe ô tô máy xăng SK ZIC X3 15W40 là dầu động cơ cao cấp có chỉ số độ nhớt cao, giúp kéo dài tuổi thọ động cơ đã vận hành nhiều, liên tục nhờ tính năng giảm mài mòn và kiểm soát chất thải. SK ZIC X3 15W40 giúp giảm nhiệt và ma sát trong các chi tiết của động cơ, ngăn cản sự rò rỉ động cơ và giảm tiêu thụ dầu.",
+            "id": 4
         },
         {
-            "id": 5,
-            "name": "Ben"
+            "img": "https://skzic.com.vn/vnt_upload/product/10_2020/thumbs/600_Dau_nhot_xe_dua_PAO_SK_ZIC_Racing_0W30.png",
+            "title": "SK ZIC RACING",
+            "fullName": "DẦU NHỚT PAO CAO CẤP SK ZIC RACING",
+            "capacity": 1,
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "shop": "Oil house",
+            "description": "Dầu nhớt SK ZIC Racing là dầu động cơ tổng hợp 100% gốc PAO (Nhóm IV) và naphthalene được kiềm hóa (Nhóm V) được thiết kế cho động cơ xe đua hiệu suất cao. Dầu nhớt SK ZIC Racing bảo vệ hoàn hảo động cơ của bạn trong các điều kiện lái xe khắc nghiệt và đòi hỏi yêu cầu cao trong các chặng đua xe thể thao. SK ZIC Racing cung cấp hiệu suất và bảo vệ động cơ 100% cho cả các ứng dụng đua xe và lái xe hàng ngày.",
+            "id": 5
+        },
+        {
+            "img": "https://skzic.com.vn/vnt_upload/product/07_2020/thumbs/600_Dau_banh_rang_SK_ZIC_G_FF.png",
+            "title": "SK ZIC G-FF 75W85",
+            "fullName": "NHỚT HỘP SỐ TAY SK ZIC G-FF 75W85",
+            "capacity": 20,
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "shop": "Oil house",
+            "description": "Dầu nhớt xe ô tô máy xăng SK ZIC G-FF 75W85 là dầu động cơ cao cấp có chỉ số độ nhớt cao, giúp kéo dài tuổi thọ động cơ đã vận hành nhiều, liên tục nhờ tính năng giảm mài mòn và kiểm soát chất thải. SK ZIC G-FF 75W85 giúp giảm nhiệt và ma sát trong các chi tiết của động cơ, ngăn cản sự rò rỉ động cơ và giảm tiêu thụ dầu.",
+            "id": 6
+        },
+        {
+            "img": "https://skzic.com.vn/vnt_upload/product/07_2020/thumbs/600_Dau_nhot_xe_tai_SK_ZIC_X9000_15W40.png",
+            "title": "SK ZIC X9000 15W40",
+            "fullName": "DẦU NHỚT XE TẢI NẶNG SK ZIC X9000 15W40",
+            "capacity": 15,
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "shop": "Oil house",
+            "description": "Dầu nhớt xe tải nặng SK ZIC X9000 15W40 là dầu nhớt tổng hợp chất lượng cao dành cho các loại động cơ diesel hạng nặng, giúp bảo vệ tối ưu cho các loại động cơ xe tải, xe công trường, nông nghiệp, công nghiệp. ZIC X9000 chuyên dùng cho cho động cơ dầu hạng nặng truyền thống lẫn hiện đại được trang bị hệ thống xử lý chất thải DPF (Hệ thống ọc hạt diesel) và SCR (Hệ thống xúc tác chọn lọc). ZIC X9000 đáp ứng và vượt trội hơn các tiêu chuẩn khắt khe nhất của các nhà sản xuất tại Châu Âu, Nhật Bản, Mỹ và Hàn Quốc.",
+            "id": 7
+        },
+        {
+            "img": "https://skzic.com.vn/vnt_upload/product/07_2020/thumbs/600_Dau_nhot_xetai_SK_ZIC_X7000_10W40.png",
+            "title": "SK ZIC X9000 15W40",
+            "fullName": "DẦU NHỚT XE TẢI NẶNG SK ZIC X7000 10W40",
+            "capacity": 20,
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "shop": "Oil house",
+            "description": "Dầu nhớt xe tải nặng SK ZIC X7000 10W40 là dầu nhớt tổng hợp chất lượng cao dành cho các loại động cơ diesel và xăng hạng nặng, giúp bảo vệ vượt trội động cơ xe tải, xe công trường, nông nghiệp, công nghiệp. ZIC X7000 có chỉ số độ nhớt cao giúp kéo dài thời gian thay nhớt và bảo vệ động cơ tốt hơn. Độ nhớt tốt ở nhiệt độ thấp giúp quá trình khởi động dễ dàng và tăng cường hiệu quả sử dụng nhiên liệu.",
+            "id": 8
         }
     ],
-    "articles": [
+    "tireProducts": [
         {
-            "id": 1,
-            "title": "Lorem ipsum dolor sit amet",
-            "user_id": 1
+            "img": "https://www.yokohama.com.vn/images/producttire/tc4qCHjb0BspZzFskMN8VP2mAHiGDGhFsAZ9mCrF.png",
+            "title": "BluEarth GT AE51",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "size": "20",
+            "suitable": "Xe gia đình",
+            "shop": "Tire house",
+            "description": "Kiểu dáng của lốp tương thích với cấu trúc phẳng, giúp tối đa hóa diện tích tiếp xúc khi phanh và gia tăng khả năng bám đường. Cân bằng hoàn hảo với độ chuẩn xác cao trong việc tiêu thụ nhiên liệu, bám đường ướt, kháng mòn và nhiều hơn nữa.Công nghệ pha trộn cấp độ nano giúp kiểm soát phản ứng hóa học giữa các hợp chất với những đặc tính riêng.",
+            "id": 1
         },
         {
-            "id": 2,
-            "title": "Lorem ipsum dolor sit amet",
-            "user_id": 1
+            "img": "https://www.yokohama.com.vn/images/producttire/rjExafkP2lPdkKNbR7MYIjTCNXJO2Aq99wg0WAQZ.png",
+            "title": "Alliance 030Ex",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "size": "18",
+            "suitable": "Xe gia đình",
+            "shop": "Tire house",
+            "description": "Kiểu dáng của lốp tương thích với cấu trúc phẳng, giúp tối đa hóa diện tích tiếp xúc khi phanh và gia tăng khả năng bám đường. Cân bằng hoàn hảo với độ chuẩn xác cao trong việc tiêu thụ nhiên liệu, bám đường ướt, kháng mòn và nhiều hơn nữa.Công nghệ pha trộn cấp độ nano giúp kiểm soát phản ứng hóa học giữa các hợp chất với những đặc tính riêng.",
+            "id": 2
         },
         {
-            "id": 3,
-            "title": "Lorem ipsum dolor sit amet",
-            "user_id": 2
+            "img": "https://www.yokohama.com.vn/images/producttire/judYA3clGSDibUGEjY67pbwuo4YSPMyn3UjlTomJ.png",
+            "title": "GEOLANDAR X-AT",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "size": "22",
+            "suitable": "Xe gia đình",
+            "shop": "Tire house",
+            "description": "Kiểu dáng của lốp tương thích với cấu trúc phẳng, giúp tối đa hóa diện tích tiếp xúc khi phanh và gia tăng khả năng bám đường. Cân bằng hoàn hảo với độ chuẩn xác cao trong việc tiêu thụ nhiên liệu, bám đường ướt, kháng mòn và nhiều hơn nữa.Công nghệ pha trộn cấp độ nano giúp kiểm soát phản ứng hóa học giữa các hợp chất với những đặc tính riêng.",
+            "id": 3
         },
         {
-            "id": 4,
-            "title": "Lorem ipsum dolor sit amet",
-            "user_id": 3
+            "img": "https://www.yokohama.com.vn/images/producttire/D0siEWmc1SepI4jeapNqfk1i85Mm0uUSlLU5oFi1.png",
+            "title": "GEOLANDAR CV G058",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "size": "20",
+            "suitable": "Xe gia đình",
+            "shop": "Tire house",
+            "description": "Kiểu dáng của lốp tương thích với cấu trúc phẳng, giúp tối đa hóa diện tích tiếp xúc khi phanh và gia tăng khả năng bám đường. Cân bằng hoàn hảo với độ chuẩn xác cao trong việc tiêu thụ nhiên liệu, bám đường ướt, kháng mòn và nhiều hơn nữa.Công nghệ pha trộn cấp độ nano giúp kiểm soát phản ứng hóa học giữa các hợp chất với những đặc tính riêng.",
+            "id": 4
         },
         {
-            "id": 5,
-            "title": "Lorem ipsum dolor sit amet",
-            "user_id": 4
+            "img": "https://www.yokohama.com.vn/images/producttire/uru9Doa6aykUo0zwANQnwsDlRdlnrEslI36agQpd.png",
+            "title": "GEOLANDAR M/T G003",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "size": "20",
+            "suitable": "Xe gia đình",
+            "shop": "Tire house",
+            "description": "Kiểu dáng của lốp tương thích với cấu trúc phẳng, giúp tối đa hóa diện tích tiếp xúc khi phanh và gia tăng khả năng bám đường. Cân bằng hoàn hảo với độ chuẩn xác cao trong việc tiêu thụ nhiên liệu, bám đường ướt, kháng mòn và nhiều hơn nữa.Công nghệ pha trộn cấp độ nano giúp kiểm soát phản ứng hóa học giữa các hợp chất với những đặc tính riêng.",
+            "id": 5
+        },
+        {
+            "img": "https://www.yokohama.com.vn/images/producttire/4IfskuAuHjkhPkiJSwSHunBc8oGYDrcF1kM4sr55.png",
+            "title": "ADVAN Sport V107",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "size": "20",
+            "suitable": "Xe gia đình",
+            "shop": "Tire house",
+            "description": "Kiểu dáng của lốp tương thích với cấu trúc phẳng, giúp tối đa hóa diện tích tiếp xúc khi phanh và gia tăng khả năng bám đường. Cân bằng hoàn hảo với độ chuẩn xác cao trong việc tiêu thụ nhiên liệu, bám đường ướt, kháng mòn và nhiều hơn nữa.Công nghệ pha trộn cấp độ nano giúp kiểm soát phản ứng hóa học giữa các hợp chất với những đặc tính riêng.",
+            "id": 6
+        },
+        {
+            "img": "https://www.yokohama.com.vn/images/producttire/tUeiDRY8G0AFQE6zraRNypbS2I71GMNUciFYl0na.png",
+            "title": "GEOLANDAR H/T G056",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "size": "20",
+            "suitable": "Xe gia đình",
+            "shop": "Tire house",
+            "description": "Kiểu dáng của lốp tương thích với cấu trúc phẳng, giúp tối đa hóa diện tích tiếp xúc khi phanh và gia tăng khả năng bám đường. Cân bằng hoàn hảo với độ chuẩn xác cao trong việc tiêu thụ nhiên liệu, bám đường ướt, kháng mòn và nhiều hơn nữa.Công nghệ pha trộn cấp độ nano giúp kiểm soát phản ứng hóa học giữa các hợp chất với những đặc tính riêng.",
+            "id": 7
+        },
+        {
+            "img": "https://www.yokohama.com.vn/images/producttire/bLtzK5WgazWf8rpQL9k3r0YAO3P28yClsETBghPq.png",
+            "title": "BluEarth-Van RY55",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "size": "20",
+            "suitable": "Xe gia đình",
+            "shop": "Tire house",
+            "description": "Kiểu dáng của lốp tương thích với cấu trúc phẳng, giúp tối đa hóa diện tích tiếp xúc khi phanh và gia tăng khả năng bám đường. Cân bằng hoàn hảo với độ chuẩn xác cao trong việc tiêu thụ nhiên liệu, bám đường ướt, kháng mòn và nhiều hơn nữa.Công nghệ pha trộn cấp độ nano giúp kiểm soát phản ứng hóa học giữa các hợp chất với những đặc tính riêng.",
+            "id": 8
         }
     ],
-    "todos": [
+    "filterProducts": [
         {
-            "userId": 1,
-            "id": 1,
-            "title": "delectus aut autem",
-            "completed": false
+            "img": "https://p7.hiclipart.com/preview/20/867/662/5bc47a4b61625-thumbnail.jpg",
+            "title": "VENZA YZZA104152",
+            "fullName": "Lọc dầu Venza (Lọc nhớt Venza) - 04152YZZA1 - 04152 - YZZA1",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "Venza",
+            "shop": "Filter house",
+            "description": "Lọc dầu Lọc dầu Venza (Lọc nhớt Venza) là bộ phận đóng vai trò quan trọng của động cơ ô tô và được hoạt động đảm bảo cho các động cơ xe được ổn định. Bởi lọc dầu có nhiệm vụ lọc sạch những tạp chất và bơm dầu bôi trơn để làm sạch tới khắp các động cơ xe. Đồng thời, lọc dầu còn có nhiệm vụ bảo vệ bôi trơn, tránh những mài mòn của các chi tiết bên trong động cơ.",
+            "id": 1
         },
         {
-            "userId": 1,
-            "id": 2,
-            "title": "quis ut nam facilis et officia qui",
-            "completed": false
+            "img": "https://p7.hiclipart.com/preview/122/490/567/5bc21c7e5e3ae-thumbnail.jpg",
+            "title": "Prado 3ZR 90915yzzd2",
+            "fullName": "Lọc dầu Prado 3ZR (Lọc nhớt Prado) - 90915yzzd2 - 9091520003",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "Prado",
+            "shop": "Filter house",
+            "description": "Lọc dầu Prado 3ZR (Lọc nhớt Prado) là bộ phận đóng vai trò quan trọng của động cơ ô tô và được hoạt động đảm bảo cho các động cơ xe được ổn định. Bởi lọc dầu có nhiệm vụ lọc sạch những tạp chất và bơm dầu bôi trơn để làm sạch tới khắp các động cơ xe. Đồng thời, lọc dầu còn có nhiệm vụ bảo vệ bôi trơn, tránh những mài mòn của các chi tiết bên trong động cơ.",
+            "id": 2
         },
         {
-            "userId": 1,
-            "id": 3,
-            "title": "fugiat veniam minus",
-            "completed": false
+            "img": "https://cdn.shopify.com/s/files/1/0273/4915/5945/products/ncape-generic1_large.jpg?v=1658819670",
+            "title": "Camry 3ZR 90915RES",
+            "fullName": "Lọc dầu Camry 2.2 5S (Lọc nhớt Camry) - 90915 - 20003",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "Camry",
+            "shop": "Filter house",
+            "description": "Lọc dầu Camry 2.2 5S (Lọc nhớt Camry) là bộ phận đóng vai trò quan trọng của động cơ ô tô và được hoạt động đảm bảo cho các động cơ xe được ổn định. Bởi lọc dầu có nhiệm vụ lọc sạch những tạp chất và bơm dầu bôi trơn để làm sạch tới khắp các động cơ xe. Đồng thời, lọc dầu còn có nhiệm vụ bảo vệ bôi trơn, tránh những mài mòn của các chi tiết bên trong động cơ.",
+            "id": 3
         },
         {
-            "userId": 1,
-            "id": 4,
-            "title": "et porro tempora",
-            "completed": true
+            "img": "https://pic.pngsucai.com/00/22/67/7356585d5e356a31.webp",
+            "title": "Hilux 3ZR 90915yzzd2",
+            "fullName": "Lọc dầu Hilux 2016 1GD (Lọc nhớt Hilux) - 90915yzzd2 - 9091520003",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "Hilux",
+            "shop": "Filter house",
+            "description": "Lọc dầu Hilux 2016 1GD (Lọc nhớt Hilux) là bộ phận đóng vai trò quan trọng của động cơ ô tô và được hoạt động đảm bảo cho các động cơ xe được ổn định. Bởi lọc dầu có nhiệm vụ lọc sạch những tạp chất và bơm dầu bôi trơn để làm sạch tới khắp các động cơ xe. Đồng thời, lọc dầu còn có nhiệm vụ bảo vệ bôi trơn, tránh những mài mòn của các chi tiết bên trong động cơ.",
+            "id": 4
         },
         {
-            "userId": 1,
-            "id": 5,
-            "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
-            "completed": false
+            "img": "https://img.pngsucai.com/00/33/25/3ae6fa5c8a2b6947.webp",
+            "title": "Triton 3ZR 1230A114T",
+            "fullName": "Lọc dầu Triton (Lọc nhớt Triton) - 1230A114T",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "Triton",
+            "shop": "Filter house",
+            "description": "Lọc dầu Triton (Lọc nhớt Triton) - 1230A114T là bộ phận đóng vai trò quan trọng của động cơ ô tô và được hoạt động đảm bảo cho các động cơ xe được ổn định. Bởi lọc dầu có nhiệm vụ lọc sạch những tạp chất và bơm dầu bôi trơn để làm sạch tới khắp các động cơ xe. Đồng thời, lọc dầu còn có nhiệm vụ bảo vệ bôi trơn, tránh những mài mòn của các chi tiết bên trong động cơ.",
+            "id": 5
         },
         {
-            "userId": 1,
-            "id": 6,
-            "title": "qui ullam ratione quibusdam voluptatem quia omnis",
-            "completed": false
+            "img": "https://img.pngsucai.com/00/44/32/a157f4b425dd4360.webp",
+            "title": "BMW X6 5.0 2009 1230A114T",
+            "fullName": "Lọc nhớt BMW X6 5.0 2009 (Lọc dầu) - 11427583220",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "BMW",
+            "shop": "Filter house",
+            "description": "Lọc nhớt BMW X6 5.0 2009 (Lọc dầu) là bộ phận đóng vai trò quan trọng của động cơ ô tô và được hoạt động đảm bảo cho các động cơ xe được ổn định. Bởi lọc dầu có nhiệm vụ lọc sạch những tạp chất và bơm dầu bôi trơn để làm sạch tới khắp các động cơ xe. Đồng thời, lọc dầu còn có nhiệm vụ bảo vệ bôi trơn, tránh những mài mòn của các chi tiết bên trong động cơ.",
+            "id": 6
         },
         {
-            "userId": 1,
-            "id": 7,
-            "title": "illo expedita consequatur quia in",
-            "completed": false
+            "img": "https://img.pngsucai.com/00/63/26/d20b20ff1ab16595.webp",
+            "title": "Tivoli X6 17318AED40025 1230A114T",
+            "fullName": "Lọc dầu Ssangyong Tivoli (Lọc nhớt) - 1731840025",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "Tivoli",
+            "shop": "Filter house",
+            "description": "Lọc dầu Ssangyong Tivoli (Lọc nhớt) là bộ phận đóng vai trò quan trọng của động cơ ô tô và được hoạt động đảm bảo cho các động cơ xe được ổn định. Bởi lọc dầu có nhiệm vụ lọc sạch những tạp chất và bơm dầu bôi trơn để làm sạch tới khắp các động cơ xe. Đồng thời, lọc dầu còn có nhiệm vụ bảo vệ bôi trơn, tránh những mài mòn của các chi tiết bên trong động cơ.",
+            "id": 7
         },
         {
-            "userId": 1,
-            "id": 8,
-            "title": "quo adipisci enim quam ut ab",
-            "completed": true
+            "img": "https://img.pngsucai.com/00/25/10/3a98cc499acae032.webp",
+            "title": "Mercedes E280 1230A114T",
+            "fullName": "Lọc dầu Mercedes E280 (Lọc nhớt) - a0001802609",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "Mercedes",
+            "shop": "Filter house",
+            "description": "Lọc dầu Mercedes E280 (Lọc nhớt) là bộ phận đóng vai trò quan trọng của động cơ ô tô và được hoạt động đảm bảo cho các động cơ xe được ổn định. Bởi lọc dầu có nhiệm vụ lọc sạch những tạp chất và bơm dầu bôi trơn để làm sạch tới khắp các động cơ xe. Đồng thời, lọc dầu còn có nhiệm vụ bảo vệ bôi trơn, tránh những mài mòn của các chi tiết bên trong động cơ.",
+            "id": 8
+        }
+    ],
+    "lightProducts": [
+        {
+            "img": "https://salt.tikicdn.com/cache/750x750/ts/product/1e/9c/94/6dbf4efed8f9f689085d02760546f813.jpg.webp",
+            "title": "Kit H11/H9/H8 72W 7200LM",
+            "fullName": "2 Piece LED Headlight Bulbs 6000K Conversion Kit H11/H9/H8 72W 7200LM",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "OEM",
+            "shop": "Light house",
+            "description": "This listing includes 2pcs of LED bulb has 2 piece high power COB LED.",
+            "id": 1
         },
         {
-            "userId": 1,
-            "id": 9,
-            "title": "molestiae perspiciatis ipsa",
-            "completed": false
+            "img": "https://salt.tikicdn.com/cache/750x750/ts/product/44/c0/95/9beeaaaa663e1cd8958d7f440fafa9ed.jpg.webp",
+            "title": "Cool White 72W 7200LM For Cars",
+            "fullName": "Conversion Lamp 6000K Cool White 72W 7200LM For Cars",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "OEM",
+            "shop": "Light house",
+            "description": "Operating Voltage: DC 9-36V(fit 12V,24V vehicles). Color Temperature: Pure White 6000K. IP68 waterproof premium aluminum housing, the headlight better works on rainy days and even in harsh conditiongs. 360 degree beam angle. Material: Aluminum alloy",
+            "id": 2
         },
         {
-            "userId": 1,
-            "id": 10,
-            "title": "illo est ratione doloremque quia maiores aut",
-            "completed": true
+            "img": "https://salt.tikicdn.com/cache/750x750/ts/product/0b/23/6b/8e64eb88f61aa7f151a81ad68c2efa53.jpg.webp",
+            "title": "Bulb Fog 72W 7200LM White 6000K",
+            "fullName": "Vehicle Bulb Fog 72W 7200LM White 6000K",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "OEM",
+            "shop": "Light house",
+            "description": "Operating Voltage: DC 9-36V(fit 12V,24V vehicles). Color Temperature: Pure White 6000K. IP68 waterproof premium aluminum housing, the headlight better works on rainy days and even in harsh conditiongs. 360 degree beam angle. Material: Aluminum alloy",
+            "id": 3
+        },
+        {
+            "img": "https://salt.tikicdn.com/cache/750x750/ts/product/02/af/3b/cb7e4c022a7f1805c96a56e3f2678ad5.jpg.webp",
+            "title": "Fog Driving Headlight Bulb White",
+            "fullName": "6000K 20W COB LED Fog Driving Headlight Bulb White",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "OEM",
+            "shop": "Light house",
+            "description": "Light Type : Parking lights,front or rear turn signal lights,back up reverse lights, Fog Lamps, Daytime Driving Light.",
+            "id": 4
+        },
+        {
+            "img": "https://salt.tikicdn.com/cache/750x750/ts/product/4e/86/80/385ff7ecb6a5e43559de212255fa96fd.jpg.webp",
+            "title": "Head Driving Fog Beam Light Lamp",
+            "fullName": "3x2pcs  COB White 6000K COB LED 1000LM  Head Driving Fog Beam Light Lamp",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "OEM",
+            "shop": "Light house",
+            "description": "2pcs H1 10W COB led bulbs, 100% brand new and high quality. COB LED design, amazing superbright lighting.Faster on/off response time, no delay to light up. Achieve higher light level over a large area,Can provide enough brightness and save a lot of energy.",
+            "id": 5
+        },
+        {
+            "img": "https://salt.tikicdn.com/cache/750x750/ts/product/f9/65/8e/5e1886c5fe5d4387d865ab5372eee279.jpg.webp",
+            "title": "White Bulb Fog Beam Light Lamp",
+            "fullName": "2Pcs Car Auto H3 COB 10W Xenon White Bulb Fog Beam Light Lamp 453 DRL 6000K",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "OEM",
+            "shop": "Light house",
+            "description": "2pcs H1 10W COB led bulbs, 100% brand new and high quality. COB LED design, amazing superbright lighting.Faster on/off response time, no delay to light up. Achieve higher light level over a large area,Can provide enough brightness and save a lot of energy.",
+            "id": 6
+        },
+        {
+            "img": "https://salt.tikicdn.com/cache/750x750/ts/product/3a/a6/e7/e31551dedc61686324d8f1664eb848bb.jpg.webp",
+            "title": "White Car Fog Head Light Lamp Bulb",
+            "fullName": "2Pcs H3 26 SMD LED Cold White Car Fog Head Light Lamp Bulb 12V",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "OEM",
+            "shop": "Light house",
+            "description": "2pcs H1 10W COB led bulbs, 100% brand new and high quality. COB LED design, amazing superbright lighting.Faster on/off response time, no delay to light up. Achieve higher light level over a large area,Can provide enough brightness and save a lot of energy.",
+            "id": 7
+        },
+        {
+            "img": "https://salt.tikicdn.com/cache/750x750/ts/product/a3/ef/9b/f4fd94f881f1957595181bfc70a43eea.jpg.webp",
+            "title": "LED Fog Light Headlight",
+            "fullName": "SMD LED Fog Light Headlight  Xenon Lamp Bulb for",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "model": "OEM",
+            "shop": "Light house",
+            "description": "2pcs H1 10W COB led bulbs, 100% brand new and high quality. COB LED design, amazing superbright lighting.Faster on/off response time, no delay to light up. Achieve higher light level over a large area,Can provide enough brightness and save a lot of energy.",
+            "id": 8
+        }
+    ],
+    "brakeProducts": [
+        {
+            "img": "https://res.cloudinary.com/deiyf3lf7/image/upload/v1701485631/Trenton_yuqwwd.png",
+            "title": "SUZUKI SWIFT, NISSAN NEW SUNNY",
+            "fullName": "SUZUKI SWIFT, NISSAN NEW SUNNY 6000K Conversion SUZUKI SWIFT, NISSAN NEW SUNNY",
+            "start": 4,
+            "reviews": 123,
+            "prevPrice": "267",
+            "newPrice": "390",
+            "shop": "Light house",
+            "description": "Được sản xuất và đóng gói theo quy chuẩn ISO 9001, TS 16949 tại công ty TNHH Jaan-E (là công ty thuộc Tập Đoàn Elig chuyên sản xuất và cung cấp trong lĩnh vực ngành hàng phụ tùng và phụ kiện xe ô tô, xe máy, xe sport, xe đạp…chính thức tại Việt Nam).",
+            "id": 1
         }
     ]
 }
