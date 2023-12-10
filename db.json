@@ -947,5 +947,76 @@
             "id": 33
         }
     ],
-    "orderList": []
+    "orderList": [],
+    "ratings": [
+        {
+            "id": 1,
+            "star": "1"
+        },
+        {
+            "id": 2,
+            "star": "2"
+        },
+        {
+            "id": 3,
+            "star": "3"
+        },
+        {
+            "id": 4,
+            "star": "4"
+        },
+        {
+            "id": 5,
+            "star": "5"
+        }
+    ],
+    "prices": [
+        {
+            "value": "0,0",
+            "name": "All",
+            "id": 1
+        },
+        {
+            "value": "0,50",
+            "name": "$0-$50",
+            "id": 2
+        },
+        {
+            "value": "50,100",
+            "name": "$50-$100",
+            "id": 3
+        },
+        {
+            "value": "100,150",
+            "name": "$100-$150",
+            "id": 4
+        },
+        {
+            "value": "150,150",
+            "name": "Over $150",
+            "id": 5
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Oil house"
+        },
+        {
+            "id": 2,
+            "name": "Light house"
+        },
+        {
+            "id": 3,
+            "name": "Tire house"
+        },
+        {
+            "id": 4,
+            "name": "Filter house"
+        },
+        {
+            "id": 5,
+            "name": "Brake house"
+        }
+    ]
 }
